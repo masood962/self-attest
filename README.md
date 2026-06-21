@@ -2,7 +2,7 @@
 
 A free, browser-based tool to self-attest PDF documents online. No uploads to server, everything works locally in your browser.
 
-🔗 **Live App:** [Click here to use](https://yourusername.github.io/self-attest)
+🔗 **Live App:** [Click here to use](https://masood962.github.io/self-attest)
 
 ---
 
